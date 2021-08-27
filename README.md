@@ -7,6 +7,11 @@ To run Streamlit from our system, we just need to install Streamlit using the co
 ```
 pip install streamlit
 ```
+and then run the app using 
+```
+streamlit run <app-name>
+```
+
 For ease of use, all the required libraries/dependencies have been provided in **requirements.txt** file. So, all the required dependencies can be installed using a single command as shown below:
 ```
 pip install -r requirements.txt
